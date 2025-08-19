@@ -1,4 +1,4 @@
-const genero = {
+const género = {
     "titulo":"Genero",
     "preambulo":"El género es un producto de la cultura de una sociedad y su historia, estando este en constante cambio que, teniendo presente el sexo de una persona, determina las características y los valores de lo que es masculino o femenino dentro de una sociedad, los roles que manejan y su relación entre ellos.",
     "leyes":[
