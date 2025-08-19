@@ -5,7 +5,7 @@ const discriminacion = {
         {
             "titulo":"Ley de Sociedad de Convivencia de la Ciudad de México.",
             "contenido":"Esta ley define el concepto de Sociedad de Convivencia, lo necesario para registrarla ante las autoridades, los derechos de los que gozan las personas en este tipo de Sociedad y de las limitantes para ser considerados como tal o para disolver dicha sociedad.",
-            "link":"https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/",
+            "link":"https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SOCIEDAD_DE_CONVIVENCIA_PARA_LA_CDMX_2.1.pdf",
             "reforma":"Sin reformas.",
             "objetivo":"Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto establecer las bases y regular las relaciones derivadas de la Sociedad de Convivencia en la Ciudad de México; considerando en todo momento, los derechos establecidos en el artículo 6 de la Constitución de la Ciudad de México. La norma supletoria de esta ley y las relaciones que de ésta se generen será el Código Civil para la Ciudad de México.",
             "capitulos":"Capítulo I<br>Disposiciones Generales.<br>Capítulo II<br>Del Registro de la Sociedad de Convivencia.<br>Capítulo III<br>De los Derechos y las Obligaciones de la Sociedad de los Convivientes.<br>Capítulo IV<br>De la Terminación de la Sociedad de Convivencia.<br>Transitorios.",
