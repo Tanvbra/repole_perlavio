@@ -1,6 +1,6 @@
 const discapacidad = {
     "titulo":"Discapacidad",
-    "preambulo":"Una discapacidad es la deficiencia en los sentidos, ya sea físicos o mentales por un tiempo considerable, que vuelve más difícil la participación adecuada de una persona en distintas áreas de la sociedad y lo que le rodea, como lo son el acceso a empleos, educación, espacios públicos, entre otros.",
+    "preambulo":"Una discapacidad es la deficiencia en los sentidos, ya sea físicos o mentales por un tiempo considerable, que vuelve más difícil ante la falta de ajustes razonables de una persona en distintas áreas de la sociedad y lo que le rodea, como lo son el acceso a empleos, educación, espacios públicos, entre otros.",
     "leyes":[
         {
             "titulo":"Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en la Ciudad de México",
